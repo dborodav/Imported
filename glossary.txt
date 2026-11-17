@@ -3,10 +3,10 @@ Complete at least TWO definitions in your own words (lab Part 2).
 Then add your name and GitHub username on the last line.
 
 Import:
-  Your definition:
+  Your definition: Import repo from someone else to edit it yourself
 
 Clone:
-  Your definition:
+  Your definition: Copy remote repo on your local PC
 
 Fork:
   Your definition:
@@ -24,3 +24,4 @@ Upstream tracking (git push -u):
   Your definition:
 
 Completed by:
+Daria dborodav
